@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">19433361_NguyenTienLap_AD_TK2</string>
+    <string-array name="donvi_list">
+        <item>don vi 1</item>
+        <item>don vi 2</item>
+        <item>don vi 3</item>
+        <item>don vi 4</item>
+        <item>don vi 5</item>
+        <item>don vi 6</item>
+    </string-array>
+</resources>
